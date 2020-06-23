@@ -1,7 +1,7 @@
 # pkg.m4 - Macros to locate and utilise pkg-config.            -*- Autoconf -*-
 # serial 1 (pkg-config-0.24)
 # 
-# Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+# Copyright © 2015 - 2020 Jean Wallet
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
