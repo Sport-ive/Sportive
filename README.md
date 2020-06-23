@@ -3,7 +3,7 @@ Sportive integration/staging tree
 
 [![Build Status](https://travis-ci.org/quark/quark.svg?branch=master)](https://travis-ci.org/quark/quark)
 
-https://sport-ive.Hitchin.io
+https://sport-ive.github.io
 
 What is Sportive?
 ------------------
