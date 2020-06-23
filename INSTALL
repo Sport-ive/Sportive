@@ -1,5 +1,5 @@
-Building Quark
+Building Sportive
 
-See doc/build-*.md for instructions on building quarkd,
+See doc/build-*.md for instructions on building sportived,
 the intended-for-services, no-graphical-interface, reference
-implementation of Quark.
+implementation of Sportive.
